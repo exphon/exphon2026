@@ -35,8 +35,10 @@
 |               | MFA_LJSpeech, MFL_Korean
 | 12:00 - 1:00 | 점심 (도시락 제공) |
 | 1:00 - 2:30 | Python/Parselmouth를 활용한 음향 정보 추출 1 |
+|             | Parselmouth_Tutorial_Part_I.ipynb      |
 | 2:30 - 2:45 | 휴식 |
 | 2:45 - 4:15 | Python/Parselmouth를 활용한 음향 정보 추출 2 |
+|             | Parselmouth_Tutorial_Part_I.ipynb      |
 | 4:15 - | 뒷풀이 |
 
 ---
