@@ -49,4 +49,4 @@
 ## 💻 준비물
 개인용 노트북 & Colab
 
-![QR](fig/exphon2026_QR.png)
+![QR](fig/exphon2026_QR.png){: width="50%" }
